@@ -6,11 +6,9 @@
 
 #content_container{
     background-color: blueviolet;
-    /* margin: 40px; */
     padding: 5%;
 }
 
 h1{
-    /* margin: 0 auto 0 auto; */
     text-align: center;
 }
